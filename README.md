@@ -1,6 +1,36 @@
-# OAuth
+# Google Drive Clone
 
-To run the project you need to get the credential.json file.
-watch the tutorial here : https://youtu.be/cQAbGqoZmBM
+## Implementation of Google O-Auth to access Google Drive
 
-run npm i then npm start to run the project
+### Setup Instructions
+
+Download the zip or git clone https://github.com/gihanrcg/Google-Auth.git and open the project using a preferred IDE.
+
+Run 
+
+> npm install
+
+> cd client
+
+> npm install
+
+to install all the necessary dependencies.
+
+
+Then navigate back to the root folder using 
+> cd ..
+
+Finally run 
+
+> npm start
+
+It will start both the client and the server concurrently
+
+
+
+## Pre-requisites
+
+- npm or yarn
+- node
+
+Developed by : Gihan Siriwardhana and Sanjaya Jayasinghe
